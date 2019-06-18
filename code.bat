@@ -4,8 +4,8 @@ git checkout master
 ::add all added/modified files
 ::git add .
 
-git commit -am "Add text file"
+git commit -am "Add text"
 ::push to git remote repository
 
-git push --set-upstream "https://github.com/MaheshMahi496/NewRepo.git" master
+git push --set-upstream "https://github.com/MaheshMahi496/New.git" master
 Pause
