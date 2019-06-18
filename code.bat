@@ -6,5 +6,6 @@ git add .
 
 git commit -am "Add text file"
 ::push to git remote repository
+git pull --rebase
 git push --set-upstream "https://github.com/MaheshMahi496/NewRepo.git" master
 Pause
